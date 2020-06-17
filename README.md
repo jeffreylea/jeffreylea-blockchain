@@ -2,7 +2,7 @@
 
 [李笑来](http://lixiaolai.com)（著）&copy; 2019
 
-[ceshilainjie](file://test.md)
+[ceshilainjie](test.md)
 -----
 
 ## 警告
